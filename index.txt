@@ -1,5 +1,6 @@
 New update.
 More added line.
-Adding third line from mfu user.
+third line.
+Adding line from mfu user.
 Adding one more line from mfu user.
 Test for git fetch to parent user.
